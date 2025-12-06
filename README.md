@@ -37,6 +37,5 @@ event     | predicted #48       |  actual #48 | score
 
 10000 is very good, 5k is too conservative
 
-# a Collin Boler production
 
 
